@@ -44,7 +44,7 @@ Ensure AWS credentials have these additional required permissions:
 ### **Lambda Permission (Required for invoke Lambda function)**
 
 - `lambda:InvokeFunctionUrl` - Invoke Lambda function URL
-- `lambda:InvokeFunction` - Invoke Lambda function (required since Oct 2025 for function URLs with AWS_IAM auth)
+- `lambda:InvokeFunction` - Invoke Lambda function
 
 ## Prerequisites
 
